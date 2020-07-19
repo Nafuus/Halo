@@ -125,6 +125,7 @@ section {
     height: 100%;
 }
 footer {
+    padding-bottom: 15px;
     width: 100%;
     background-color: #0d0d0d;
     color: #fff;
